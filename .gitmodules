@@ -1,0 +1,18 @@
+[submodule "docker-hugo"]
+	path = docker-hugo
+	url = https://github.com/andrescabsi14/docker-hugo.git
+[submodule "mernTS-docker"]
+	path = mernTS-docker
+	url = https://github.com/andrescabsi14/mernTS-docker.git
+[submodule "docker-alpinejs"]
+	path = docker-alpinejs
+	url = https://github.com/andrescabsi14/docker-alpinejs.git
+[submodule "docker-alpinejs-min"]
+	path = docker-alpinejs-min
+	url = https://github.com/andrescabsi14/docker-alpinejs-min.git
+[submodule "docker-alpine-multi-stage-hapi"]
+	path = docker-alpine-multi-stage-hapi
+	url = https://github.com/andrescabsi14/docker-alpine-multi-stage-hapi.git
+[submodule "docker-alpine-volume-hapi"]
+	path = docker-alpine-volume-hapi
+	url = https://github.com/andrescabsi14/docker-alpine-volume-hapi.git
